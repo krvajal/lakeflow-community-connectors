@@ -668,3 +668,4 @@ To validate writes, the connector (or user) can:
 
 When conflicts arise, **official Airtable documentation** is treated as the source of truth, with the Airbyte connector used to validate practical implementation details.
 
+
